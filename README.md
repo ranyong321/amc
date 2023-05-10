@@ -14,6 +14,12 @@ RAM: >=16GB, 64-bit architecture, [Golang version >= 1.19](https://golang.org/do
 
 ## Build from source code
 For building the latest alpha release (this will be suitable for most users just wanting to run a node):
+you can follow these steps:
+    1.Get the source code: You can get the source code files from the project's GitHub page, usually by git cloning the repository or downloading a zip file.
+    2.Install compilation tools: You need to install appropriate compilation tools, such as a C++ compiler and a build tool such as make, to be able to compile the source code into an executable.
+    3.Configure and compile: After installing the necessary tools, you need to follow the instructions for this project to configure and compile. This usually involves running a configure script to configure the software's build options, and then running the make         command to compile the source code.
+    4.Installation: Once compiled, you can use the make install command to install the executable into your system so that you can run the software directly in the terminal.
+
 
 ### Most Linux systems and macOS
 
